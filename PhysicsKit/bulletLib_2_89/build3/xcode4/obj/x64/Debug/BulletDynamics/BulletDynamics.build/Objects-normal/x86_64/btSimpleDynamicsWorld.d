@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDynamicsWorld.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDynamicsWorld.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \

@@ -14,6 +14,11 @@ the physics simulation's output to a SceneKit scene's nodes.
   s.source           = { :git => 'https://github.com/AdamEisfeld/PhysicsKit.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '11.0'
+  s.osx.deployment_target = "10.15"
+  # s.watchos.deployment_target = "2.0"
+  s.tvos.deployment_target = "14.0"
+
+  #s.swift_version = '5.3'
 
   s.public_header_files = "PhysicsKit/build/Products/Debug-universal/PhysicsKit.framework/Headers/*.h"
   s.source_files = "PhysicsKit/build/Products/Debug-universal/PhysicsKit.framework/Headers/*.h"

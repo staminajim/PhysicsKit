@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxCollisionAlgorithm.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   ../../src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btAlignedObjectArray.h \
@@ -21,7 +21,7 @@ dependencies: \
   ../../src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionObject.h \
   ../../src/LinearMath/btMotionState.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   ../../src/BulletCollision/CollisionShapes/btBoxShape.h \
   ../../src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h \
   ../../src/BulletCollision/CollisionShapes/btConvexInternalShape.h \
@@ -29,4 +29,4 @@ dependencies: \
   ../../src/BulletCollision/CollisionShapes/btCollisionShape.h \
   ../../src/BulletCollision/CollisionShapes/btCollisionMargin.h \
   ../../src/LinearMath/btAabbUtil2.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.h
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.h

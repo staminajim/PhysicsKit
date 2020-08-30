@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.cpp \
   ../../src/BulletCollision/CollisionDispatch/btManifoldResult.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
@@ -23,14 +23,14 @@ dependencies: \
   ../../src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
   ../../src/BulletCollision/CollisionShapes/btCollisionMargin.h \
   ../../src/LinearMath/btAabbUtil2.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactCollisionAlgorithm.h \
   ../../src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   ../../src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   ../../src/BulletCollision/BroadphaseCollision/btDispatcher.h \
   ../../src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactShape.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactShape.h \
   ../../src/BulletCollision/CollisionShapes/btTriangleShape.h \
   ../../src/BulletCollision/CollisionShapes/btStridingMeshInterface.h \
   ../../src/BulletCollision/CollisionShapes/btTriangleCallback.h \
@@ -39,17 +39,17 @@ dependencies: \
   ../../src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h \
   ../../src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
   ../../src/BulletCollision/CollisionShapes/btTetrahedronShape.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactQuantizedBvh.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactBvh.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btBoxCollision.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btTriangleShapeEx.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btClipPolygon.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactQuantizedBvh.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactBvh.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btBoxCollision.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btTriangleShapeEx.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btClipPolygon.h \
   ../../src/LinearMath/btGeometryUtil.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGeometryOperations.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactBvhStructs.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/gim_pair.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btQuantization.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactQuantizedBvhStructs.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGeometryOperations.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactBvhStructs.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/gim_pair.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btQuantization.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btGImpactQuantizedBvhStructs.h \
   ../../src/BulletCollision/CollisionShapes/btStaticPlaneShape.h \
   ../../src/BulletCollision/CollisionShapes/btCompoundShape.h \
   ../../src/BulletCollision/CollisionDispatch/btConvexConvexAlgorithm.h \
@@ -57,6 +57,6 @@ dependencies: \
   ../../src/BulletCollision/NarrowPhaseCollision/btSimplexSolverInterface.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btVoronoiSimplexSolver.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btPolyhedralContactClipping.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btContactProcessing.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btContactProcessingStructs.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btContactProcessing.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/Gimpact/btContactProcessingStructs.h \
   ../../src/LinearMath/btQuickprof.h

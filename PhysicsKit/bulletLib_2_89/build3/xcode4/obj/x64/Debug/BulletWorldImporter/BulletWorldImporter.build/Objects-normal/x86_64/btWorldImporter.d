@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btWorldImporter.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btWorldImporter.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btWorldImporter.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btWorldImporter.h \
   ../../src/LinearMath/btTransform.h ../../src/LinearMath/btMatrix3x3.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \

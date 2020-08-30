@@ -21,6 +21,18 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
+		1A9A86C724FB275500C57FDA /* PhysicsKitMac.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A9A86C524FB275500C57FDA /* PhysicsKitMac.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1A9A86D424FB277D00C57FDA /* PhysicsKitTVOS.h in Headers */ = {isa = PBXBuildFile; fileRef = 1A9A86D224FB277D00C57FDA /* PhysicsKitTVOS.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1A9A86D824FB27BF00C57FDA /* libBulletCollision_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE78922498054A00F280BD /* libBulletCollision_xcode4_x64_debug.a */; };
+		1A9A86D924FB27BF00C57FDA /* libBulletDynamics_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE787A2498054A00F280BD /* libBulletDynamics_xcode4_x64_debug.a */; };
+		1A9A86DA24FB27BF00C57FDA /* libBulletFileLoader_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE78862498054A00F280BD /* libBulletFileLoader_xcode4_x64_debug.a */; };
+		1A9A86DB24FB27BF00C57FDA /* libBulletWorldImporter_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE78802498054A00F280BD /* libBulletWorldImporter_xcode4_x64_debug.a */; };
+		1A9A86DC24FB27BF00C57FDA /* libLinearMath_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE788C2498054A00F280BD /* libLinearMath_xcode4_x64_debug.a */; };
+		1A9A86DD24FB27D200C57FDA /* libBulletCollision_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE78922498054A00F280BD /* libBulletCollision_xcode4_x64_debug.a */; };
+		1A9A86DE24FB27D200C57FDA /* libBulletDynamics_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE787A2498054A00F280BD /* libBulletDynamics_xcode4_x64_debug.a */; };
+		1A9A86DF24FB27D200C57FDA /* libBulletFileLoader_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE78862498054A00F280BD /* libBulletFileLoader_xcode4_x64_debug.a */; };
+		1A9A86E024FB27D200C57FDA /* libBulletWorldImporter_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE78802498054A00F280BD /* libBulletWorldImporter_xcode4_x64_debug.a */; };
+		1A9A86E124FB27D200C57FDA /* libLinearMath_xcode4_x64_debug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F3EE788C2498054A00F280BD /* libLinearMath_xcode4_x64_debug.a */; };
 		F35859EC249E7F4E00E0994F /* PKCollisionShapeCylinder.swift in Sources */ = {isa = PBXBuildFile; fileRef = F35859EB249E7F4E00E0994F /* PKCollisionShapeCylinder.swift */; };
 		F37D5A8224AFD1FC0015E40F /* PKAction.swift in Sources */ = {isa = PBXBuildFile; fileRef = F37D5A8124AFD1FC0015E40F /* PKAction.swift */; };
 		F37D5A8424AFD2230015E40F /* PKAction+Move.swift in Sources */ = {isa = PBXBuildFile; fileRef = F37D5A8324AFD2230015E40F /* PKAction+Move.swift */; };
@@ -155,6 +167,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1A9A86C324FB275500C57FDA /* PhysicsKitMac.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PhysicsKitMac.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A9A86C524FB275500C57FDA /* PhysicsKitMac.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PhysicsKitMac.h; sourceTree = "<group>"; };
+		1A9A86C624FB275500C57FDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A9A86D024FB277D00C57FDA /* PhysicsKitTVOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = PhysicsKitTVOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A9A86D224FB277D00C57FDA /* PhysicsKitTVOS.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PhysicsKitTVOS.h; sourceTree = "<group>"; };
+		1A9A86D324FB277D00C57FDA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F35859EB249E7F4E00E0994F /* PKCollisionShapeCylinder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PKCollisionShapeCylinder.swift; sourceTree = "<group>"; };
 		F37D5A8124AFD1FC0015E40F /* PKAction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PKAction.swift; sourceTree = "<group>"; };
 		F37D5A8324AFD2230015E40F /* PKAction+Move.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PKAction+Move.swift"; sourceTree = "<group>"; };
@@ -218,6 +236,30 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		1A9A86C024FB275500C57FDA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A9A86DA24FB27BF00C57FDA /* libBulletFileLoader_xcode4_x64_debug.a in Frameworks */,
+				1A9A86DC24FB27BF00C57FDA /* libLinearMath_xcode4_x64_debug.a in Frameworks */,
+				1A9A86D824FB27BF00C57FDA /* libBulletCollision_xcode4_x64_debug.a in Frameworks */,
+				1A9A86DB24FB27BF00C57FDA /* libBulletWorldImporter_xcode4_x64_debug.a in Frameworks */,
+				1A9A86D924FB27BF00C57FDA /* libBulletDynamics_xcode4_x64_debug.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A9A86CD24FB277D00C57FDA /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A9A86DF24FB27D200C57FDA /* libBulletFileLoader_xcode4_x64_debug.a in Frameworks */,
+				1A9A86E124FB27D200C57FDA /* libLinearMath_xcode4_x64_debug.a in Frameworks */,
+				1A9A86DD24FB27D200C57FDA /* libBulletCollision_xcode4_x64_debug.a in Frameworks */,
+				1A9A86E024FB27D200C57FDA /* libBulletWorldImporter_xcode4_x64_debug.a in Frameworks */,
+				1A9A86DE24FB27D200C57FDA /* libBulletDynamics_xcode4_x64_debug.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		F3EE78672498049F00F280BD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -233,6 +275,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1A9A86C424FB275500C57FDA /* PhysicsKitMac */ = {
+			isa = PBXGroup;
+			children = (
+				1A9A86C524FB275500C57FDA /* PhysicsKitMac.h */,
+				1A9A86C624FB275500C57FDA /* Info.plist */,
+			);
+			path = PhysicsKitMac;
+			sourceTree = "<group>";
+		};
+		1A9A86D124FB277D00C57FDA /* PhysicsKitTVOS */ = {
+			isa = PBXGroup;
+			children = (
+				1A9A86D224FB277D00C57FDA /* PhysicsKitTVOS.h */,
+				1A9A86D324FB277D00C57FDA /* Info.plist */,
+			);
+			path = PhysicsKitTVOS;
+			sourceTree = "<group>";
+		};
 		F37D5A8024AFD1F40015E40F /* Actions */ = {
 			isa = PBXGroup;
 			children = (
@@ -255,6 +315,8 @@
 			isa = PBXGroup;
 			children = (
 				F3EE786C2498049F00F280BD /* PhysicsKit */,
+				1A9A86C424FB275500C57FDA /* PhysicsKitMac */,
+				1A9A86D124FB277D00C57FDA /* PhysicsKitTVOS */,
 				F3EE786B2498049F00F280BD /* Products */,
 				F3EE789D2498058400F280BD /* Frameworks */,
 			);
@@ -264,6 +326,8 @@
 			isa = PBXGroup;
 			children = (
 				F3EE786A2498049F00F280BD /* PhysicsKit.framework */,
+				1A9A86C324FB275500C57FDA /* PhysicsKitMac.framework */,
+				1A9A86D024FB277D00C57FDA /* PhysicsKitTVOS.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -502,6 +566,22 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		1A9A86BE24FB275500C57FDA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A9A86C724FB275500C57FDA /* PhysicsKitMac.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A9A86CB24FB277D00C57FDA /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A9A86D424FB277D00C57FDA /* PhysicsKitTVOS.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		F3EE78652498049F00F280BD /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -529,6 +609,42 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		1A9A86C224FB275500C57FDA /* PhysicsKitMac */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A9A86C824FB275500C57FDA /* Build configuration list for PBXNativeTarget "PhysicsKitMac" */;
+			buildPhases = (
+				1A9A86BE24FB275500C57FDA /* Headers */,
+				1A9A86BF24FB275500C57FDA /* Sources */,
+				1A9A86C024FB275500C57FDA /* Frameworks */,
+				1A9A86C124FB275500C57FDA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PhysicsKitMac;
+			productName = PhysicsKitMac;
+			productReference = 1A9A86C324FB275500C57FDA /* PhysicsKitMac.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		1A9A86CF24FB277D00C57FDA /* PhysicsKitTVOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A9A86D524FB277D00C57FDA /* Build configuration list for PBXNativeTarget "PhysicsKitTVOS" */;
+			buildPhases = (
+				1A9A86CB24FB277D00C57FDA /* Headers */,
+				1A9A86CC24FB277D00C57FDA /* Sources */,
+				1A9A86CD24FB277D00C57FDA /* Frameworks */,
+				1A9A86CE24FB277D00C57FDA /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PhysicsKitTVOS;
+			productName = PhysicsKitTVOS;
+			productReference = 1A9A86D024FB277D00C57FDA /* PhysicsKitTVOS.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		F3EE78692498049F00F280BD /* PhysicsKit */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = F3EE78722498049F00F280BD /* Build configuration list for PBXNativeTarget "PhysicsKit" */;
@@ -562,6 +678,12 @@
 				LastUpgradeCheck = 1150;
 				ORGANIZATIONNAME = adameisfeld;
 				TargetAttributes = {
+					1A9A86C224FB275500C57FDA = {
+						CreatedOnToolsVersion = 12.0;
+					};
+					1A9A86CF24FB277D00C57FDA = {
+						CreatedOnToolsVersion = 12.0;
+					};
 					F3409E4A24992C3400F1099C = {
 						CreatedOnToolsVersion = 11.5;
 					};
@@ -607,6 +729,8 @@
 			targets = (
 				F3EE78692498049F00F280BD /* PhysicsKit */,
 				F3409E4A24992C3400F1099C /* PhysicsKit-Aggregate */,
+				1A9A86C224FB275500C57FDA /* PhysicsKitMac */,
+				1A9A86CF24FB277D00C57FDA /* PhysicsKitTVOS */,
 			);
 		};
 /* End PBXProject section */
@@ -650,6 +774,20 @@
 /* End PBXReferenceProxy section */
 
 /* Begin PBXResourcesBuildPhase section */
+		1A9A86C124FB275500C57FDA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A9A86CE24FB277D00C57FDA /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		F3EE78682498049F00F280BD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -698,6 +836,20 @@
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		1A9A86BF24FB275500C57FDA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A9A86CC24FB277D00C57FDA /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		F3EE78662498049F00F280BD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -772,6 +924,110 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		1A9A86C924FB275500C57FDA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 5NCGG6WA69;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = PhysicsKitMac/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = adameisfeld.PhysicsKit.PhysicsKitMac;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1A9A86CA24FB275500C57FDA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 5NCGG6WA69;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = PhysicsKitMac/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				PRODUCT_BUNDLE_IDENTIFIER = adameisfeld.PhysicsKit.PhysicsKitMac;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = macosx;
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		1A9A86D624FB277D00C57FDA /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 5NCGG6WA69;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = PhysicsKitTVOS/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = adameisfeld.PhysicsKit.PhysicsKitTVOS;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 14.0;
+			};
+			name = Debug;
+		};
+		1A9A86D724FB277D00C57FDA /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEFINES_MODULE = YES;
+				DEVELOPMENT_TEAM = 5NCGG6WA69;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = PhysicsKitTVOS/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = adameisfeld.PhysicsKit.PhysicsKitTVOS;
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = appletvos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 14.0;
+			};
+			name = Release;
+		};
 		F3409E4C24992C3400F1099C /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -792,6 +1048,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -846,6 +1103,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.3;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
@@ -855,6 +1113,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUILD_LIBRARY_FOR_DISTRIBUTION = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -902,6 +1161,7 @@
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.3;
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -930,7 +1190,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
 				SYMROOT = build;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/PhysicsKit/bulletLib_2_89\"/**";
 			};
 			name = Debug;
@@ -957,7 +1217,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
 				SYMROOT = build;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = "1,2,6";
 				USER_HEADER_SEARCH_PATHS = "\"$(SRCROOT)/PhysicsKit/bulletLib_2_89\"/**";
 			};
 			name = Release;
@@ -965,6 +1225,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		1A9A86C824FB275500C57FDA /* Build configuration list for PBXNativeTarget "PhysicsKitMac" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A9A86C924FB275500C57FDA /* Debug */,
+				1A9A86CA24FB275500C57FDA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A9A86D524FB277D00C57FDA /* Build configuration list for PBXNativeTarget "PhysicsKitTVOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A9A86D624FB277D00C57FDA /* Debug */,
+				1A9A86D724FB277D00C57FDA /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		F3409E4B24992C3400F1099C /* Build configuration list for PBXAggregateTarget "PhysicsKit-Aggregate" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

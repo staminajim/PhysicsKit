@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btMLCPSolver.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btMLCPSolver.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btMLCPSolver.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btMLCPSolver.h \
   ../../src/BulletDynamics/ConstraintSolver/btSequentialImpulseConstraintSolver.h \
   ../../src/BulletDynamics/ConstraintSolver/btTypedConstraint.h \
   ../../src/LinearMath/btScalar.h \
@@ -23,5 +23,5 @@ dependencies: \
   ../../src/BulletDynamics/ConstraintSolver/btConstraintSolver.h \
   ../../src/LinearMath/btMatrixX.h ../../src/LinearMath/btQuickprof.h \
   ../../src/BulletDynamics/MLCPSolvers/btMLCPSolverInterface.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btSolveProjectedGaussSeidel.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btMLCPSolverInterface.h
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btSolveProjectedGaussSeidel.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/MLCPSolvers/btMLCPSolverInterface.h

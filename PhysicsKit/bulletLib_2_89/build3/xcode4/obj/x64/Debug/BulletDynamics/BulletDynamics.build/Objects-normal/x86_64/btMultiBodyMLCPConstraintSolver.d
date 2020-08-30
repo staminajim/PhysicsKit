@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodyMLCPConstraintSolver.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodyMLCPConstraintSolver.cpp \
   ../../src/BulletDynamics/Featherstone/btMultiBodyMLCPConstraintSolver.h \
   ../../src/LinearMath/btMatrixX.h ../../src/LinearMath/btQuickprof.h \
   ../../src/LinearMath/btScalar.h \
@@ -24,10 +24,10 @@ dependencies: \
   ../../src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h \
   ../../src/BulletDynamics/ConstraintSolver/btConstraintSolver.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodySolverConstraint.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodyConstraint.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBody.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodyLink.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodySolverConstraint.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodyConstraint.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBody.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Featherstone/btMultiBodyLink.h \
   ../../src/LinearMath/btSpatialAlgebra.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
   ../../src/BulletDynamics/Featherstone/btMultiBodyLinkCollider.h \

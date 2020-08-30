@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDynamicsWorld.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDynamicsWorld.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \
@@ -53,5 +53,5 @@ dependencies: \
   ../../src/BulletCollision/CollisionShapes/btCollisionMargin.h \
   ../../src/LinearMath/btAabbUtil2.h \
   ../../src/BulletDynamics/Dynamics/btActionInterface.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btRigidBody.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btRigidBody.h \
   ../../src/LinearMath/btSerializer.h ../../src/LinearMath/btHashMap.h

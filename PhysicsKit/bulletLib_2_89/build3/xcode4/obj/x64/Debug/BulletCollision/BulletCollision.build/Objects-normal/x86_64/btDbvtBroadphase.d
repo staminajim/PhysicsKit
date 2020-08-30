@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvtBroadphase.h \
   ../../src/BulletCollision/BroadphaseCollision/btDbvt.h \
   ../../src/LinearMath/btAlignedObjectArray.h \
   ../../src/LinearMath/btScalar.h \
@@ -10,7 +10,7 @@ dependencies: \
   ../../src/LinearMath/btQuaternion.h ../../src/LinearMath/btQuadWord.h \
   ../../src/LinearMath/btAabbUtil2.h \
   ../../src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
   ../../src/LinearMath/btThreads.h

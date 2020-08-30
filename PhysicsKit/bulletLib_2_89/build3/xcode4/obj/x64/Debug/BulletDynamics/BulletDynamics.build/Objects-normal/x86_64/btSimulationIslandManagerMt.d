@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimulationIslandManagerMt.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimulationIslandManagerMt.cpp \
   ../../src/LinearMath/btScalar.h ../../src/LinearMath/btThreads.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimulationIslandManagerMt.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimulationIslandManagerMt.h \
   ../../src/BulletCollision/CollisionDispatch/btSimulationIslandManager.h \
   ../../src/BulletCollision/CollisionDispatch/btUnionFind.h \
   ../../src/LinearMath/btAlignedObjectArray.h \

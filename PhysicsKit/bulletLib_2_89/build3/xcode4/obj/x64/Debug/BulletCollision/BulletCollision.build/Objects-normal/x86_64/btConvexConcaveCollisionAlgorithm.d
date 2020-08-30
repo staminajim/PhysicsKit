@@ -1,7 +1,7 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btConvexConcaveCollisionAlgorithm.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   ../../src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btAlignedObjectArray.h \
@@ -16,7 +16,7 @@ dependencies: \
   ../../src/LinearMath/btQuaternion.h ../../src/LinearMath/btQuadWord.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h \
   ../../src/LinearMath/btTransformUtil.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   ../../src/LinearMath/btQuickprof.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionObject.h \
   ../../src/LinearMath/btMotionState.h \

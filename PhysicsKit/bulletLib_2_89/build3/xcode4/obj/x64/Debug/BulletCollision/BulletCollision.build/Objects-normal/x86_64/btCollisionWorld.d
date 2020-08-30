@@ -1,15 +1,15 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionWorld.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionWorld.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionWorld.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \
   ../../src/LinearMath/btAlignedAllocator.h \
   ../../src/LinearMath/btTransform.h ../../src/LinearMath/btMatrix3x3.h \
   ../../src/LinearMath/btQuaternion.h ../../src/LinearMath/btQuadWord.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionObject.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionObject.h \
   ../../src/LinearMath/btMotionState.h \
   ../../src/LinearMath/btAlignedObjectArray.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionDispatcher.h \
   ../../src/BulletCollision/BroadphaseCollision/btDispatcher.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btPersistentManifold.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btManifoldPoint.h \
@@ -19,7 +19,7 @@ dependencies: \
   ../../src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionObject.h \
   ../../src/BulletCollision/BroadphaseCollision/btBroadphaseProxy.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   ../../src/BulletCollision/BroadphaseCollision/btOverlappingPairCache.h \
   ../../src/BulletCollision/BroadphaseCollision/btBroadphaseInterface.h \
   ../../src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \

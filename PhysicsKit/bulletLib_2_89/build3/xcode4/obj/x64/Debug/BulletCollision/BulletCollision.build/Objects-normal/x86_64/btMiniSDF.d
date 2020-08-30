@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionShapes/btMiniSDF.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionShapes/btMiniSDF.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionShapes/btMiniSDF.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionShapes/btMiniSDF.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \
   ../../src/LinearMath/btAlignedAllocator.h \

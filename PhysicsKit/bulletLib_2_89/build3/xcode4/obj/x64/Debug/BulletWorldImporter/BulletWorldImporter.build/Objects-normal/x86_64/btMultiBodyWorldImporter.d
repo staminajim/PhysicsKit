@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btMultiBodyWorldImporter.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btMultiBodyWorldImporter.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btBulletWorldImporter.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btWorldImporter.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btMultiBodyWorldImporter.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btMultiBodyWorldImporter.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btBulletWorldImporter.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/btWorldImporter.h \
   ../../src/LinearMath/btTransform.h ../../src/LinearMath/btMatrix3x3.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \
@@ -10,7 +10,7 @@ dependencies: \
   ../../src/LinearMath/btQuaternion.h ../../src/LinearMath/btQuadWord.h \
   ../../src/LinearMath/btAlignedObjectArray.h \
   ../../src/LinearMath/btHashMap.h ../../src/LinearMath/btSerializer.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/../BulletFileLoader/btBulletFile.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/Extras/Serialize/BulletWorldImporter/../BulletFileLoader/btBulletFile.h \
   ../../Extras/Serialize/BulletFileLoader/bFile.h \
   ../../Extras/Serialize/BulletFileLoader/bCommon.h \
   ../../Extras/Serialize/BulletFileLoader/bChunk.h \

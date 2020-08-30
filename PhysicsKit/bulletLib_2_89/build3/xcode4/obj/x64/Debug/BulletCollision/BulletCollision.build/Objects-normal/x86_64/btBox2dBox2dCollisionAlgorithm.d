@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBox2dBox2dCollisionAlgorithm.h \
   ../../src/BulletCollision/CollisionDispatch/btActivatingCollisionAlgorithm.h \
   ../../src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   ../../src/LinearMath/btScalar.h \
@@ -21,7 +21,7 @@ dependencies: \
   ../../src/BulletCollision/CollisionDispatch/btCollisionObjectWrapper.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionObject.h \
   ../../src/LinearMath/btMotionState.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btCollisionCreateFunc.h \
   ../../src/BulletCollision/CollisionShapes/btBoxShape.h \
   ../../src/BulletCollision/CollisionShapes/btPolyhedralConvexShape.h \
   ../../src/BulletCollision/CollisionShapes/btConvexInternalShape.h \

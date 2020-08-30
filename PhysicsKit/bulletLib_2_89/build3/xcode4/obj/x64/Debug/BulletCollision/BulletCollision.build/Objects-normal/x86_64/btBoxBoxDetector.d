@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/CollisionDispatch/btBoxBoxDetector.h \
   ../../src/BulletCollision/NarrowPhaseCollision/btDiscreteCollisionDetectorInterface.h \
   ../../src/LinearMath/btTransform.h ../../src/LinearMath/btMatrix3x3.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \

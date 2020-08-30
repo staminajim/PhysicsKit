@@ -1,6 +1,6 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvt.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvt.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvt.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletCollision/BroadphaseCollision/btDbvt.h \
   ../../src/LinearMath/btAlignedObjectArray.h \
   ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btAlignedAllocator.h \

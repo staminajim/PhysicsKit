@@ -1,8 +1,8 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorldMt.cpp \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorldMt.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDynamicsWorld.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorldMt.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorldMt.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btDynamicsWorld.h \
   ../../src/BulletCollision/CollisionDispatch/btCollisionWorld.h \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \
@@ -27,7 +27,7 @@ dependencies: \
   ../../src/BulletCollision/BroadphaseCollision/btOverlappingPairCallback.h \
   ../../src/BulletDynamics/ConstraintSolver/btContactSolverInfo.h \
   ../../src/LinearMath/btThreads.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimulationIslandManagerMt.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btSimulationIslandManagerMt.h \
   ../../src/BulletCollision/CollisionDispatch/btSimulationIslandManager.h \
   ../../src/BulletCollision/CollisionDispatch/btUnionFind.h \
   ../../src/BulletDynamics/ConstraintSolver/btConstraintSolver.h \
@@ -55,5 +55,5 @@ dependencies: \
   ../../src/BulletCollision/CollisionShapes/btCollisionMargin.h \
   ../../src/LinearMath/btAabbUtil2.h \
   ../../src/BulletDynamics/Dynamics/btActionInterface.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btRigidBody.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Dynamics/btRigidBody.h \
   ../../src/LinearMath/btSerializer.h ../../src/LinearMath/btHashMap.h

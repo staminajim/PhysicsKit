@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Character/btKinematicCharacterController.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Character/btKinematicCharacterController.cpp \
   ../../src/LinearMath/btIDebugDraw.h ../../src/LinearMath/btVector3.h \
   ../../src/LinearMath/btScalar.h ../../src/LinearMath/btMinMax.h \
   ../../src/LinearMath/btAlignedAllocator.h \
@@ -31,7 +31,7 @@ dependencies: \
   ../../src/LinearMath/btAabbUtil2.h \
   ../../src/BulletCollision/BroadphaseCollision/btCollisionAlgorithm.h \
   ../../src/LinearMath/btDefaultMotionState.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Character/btKinematicCharacterController.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Character/btCharacterControllerInterface.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Character/btKinematicCharacterController.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Character/btCharacterControllerInterface.h \
   ../../src/BulletDynamics/Dynamics/btActionInterface.h \
   ../../src/BulletDynamics/Dynamics/btRigidBody.h

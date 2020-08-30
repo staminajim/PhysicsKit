@@ -1,9 +1,9 @@
 dependencies: \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btRaycastVehicle.cpp \
   ../../src/LinearMath/btVector3.h ../../src/LinearMath/btScalar.h \
   ../../src/LinearMath/btMinMax.h \
   ../../src/LinearMath/btAlignedAllocator.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btRaycastVehicle.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btRaycastVehicle.h \
   ../../src/BulletDynamics/Dynamics/btRigidBody.h \
   ../../src/LinearMath/btAlignedObjectArray.h \
   ../../src/LinearMath/btTransform.h ../../src/LinearMath/btMatrix3x3.h \
@@ -16,8 +16,8 @@ dependencies: \
   ../../src/BulletDynamics/ConstraintSolver/btJacobianEntry.h \
   ../../src/BulletDynamics/ConstraintSolver/btSolverBody.h \
   ../../src/LinearMath/btTransformUtil.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btVehicleRaycaster.h \
-  /Users/adameisfeld/Desktop/Projects/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btWheelInfo.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btVehicleRaycaster.h \
+  /Users/james/Source/bitbucket/LocoLooper/PhysicsKit/PhysicsKit/bulletLib_2_89/src/BulletDynamics/Vehicle/btWheelInfo.h \
   ../../src/BulletDynamics/Dynamics/btActionInterface.h \
   ../../src/BulletDynamics/ConstraintSolver/btSolve2LinearConstraint.h \
   ../../src/BulletDynamics/Dynamics/btDynamicsWorld.h \
